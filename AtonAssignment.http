@@ -1,0 +1,6 @@
+@AtonAssignment_HostAddress = http://localhost:7281
+
+GET {{AtonAssignment_HostAddress}}/swagger
+Accept: application/json
+
+###
